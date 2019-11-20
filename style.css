@@ -1,0 +1,68 @@
+body, html {
+	margin: 0px;
+	padding: 0px;
+	overflow-x: none;
+}
+
+
+div.nav-bar ul {
+	background-color: #222931;
+	width: 950px;
+	margin-top: 0px;
+}
+
+.nav-bar {
+	position: absolute;
+	z-index: 1;
+	margin-top: 0px;
+}
+div.nav-bar ul li {
+	display: inline-block;
+	color: #FFF;
+	margin: 16px;
+}
+
+.header-img {
+	margin-top: 25px;
+	position: relative;
+	width: 100vw;
+}
+
+div.logo {
+	margin-bottom: 20px;
+	margin-top: 25px;
+}
+
+div.banner-img img {
+	margin: 40px 20px 40px 20px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+
+div.banner-text h1 {
+	display: inline-block;
+}
+
+div.banner-text p {
+	display: inline-block;
+	margin-left: 3%;
+}
+
+div.banner-text button {
+	display: inline-block;
+	margin-left: 36%;
+}
+
+div.banner-text {
+	background-color: #ffe718;
+}
+
+div.container {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.footer-banner-img {
+	width: 50vw;
+}
